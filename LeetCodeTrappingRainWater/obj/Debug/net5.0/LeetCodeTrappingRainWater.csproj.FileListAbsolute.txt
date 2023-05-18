@@ -1,0 +1,16 @@
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\bin\Debug\net5.0\LeetCodeTrappingRainWater.exe
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\bin\Debug\net5.0\LeetCodeTrappingRainWater.deps.json
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\bin\Debug\net5.0\LeetCodeTrappingRainWater.runtimeconfig.json
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\bin\Debug\net5.0\LeetCodeTrappingRainWater.runtimeconfig.dev.json
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\bin\Debug\net5.0\LeetCodeTrappingRainWater.dll
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\bin\Debug\net5.0\ref\LeetCodeTrappingRainWater.dll
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\bin\Debug\net5.0\LeetCodeTrappingRainWater.pdb
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\obj\Debug\net5.0\LeetCodeTrappingRainWater.csproj.AssemblyReference.cache
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\obj\Debug\net5.0\LeetCodeTrappingRainWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\obj\Debug\net5.0\LeetCodeTrappingRainWater.AssemblyInfoInputs.cache
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\obj\Debug\net5.0\LeetCodeTrappingRainWater.AssemblyInfo.cs
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\obj\Debug\net5.0\LeetCodeTrappingRainWater.csproj.CoreCompileInputs.cache
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\obj\Debug\net5.0\LeetCodeTrappingRainWater.dll
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\obj\Debug\net5.0\ref\LeetCodeTrappingRainWater.dll
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\obj\Debug\net5.0\LeetCodeTrappingRainWater.pdb
+C:\Users\iparker\source\repos\LeetCodeTrappingRainWater\LeetCodeTrappingRainWater\obj\Debug\net5.0\LeetCodeTrappingRainWater.genruntimeconfig.cache
